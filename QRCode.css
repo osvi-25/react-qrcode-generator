@@ -11,7 +11,7 @@
     align-items: center;
 }
 body{
-    background-image: url(/public/wt5.png);
+    background-image: url('images/qrBg.webp');
     background-repeat: no-repeat;
     background-size: cover;
 }
