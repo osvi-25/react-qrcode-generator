@@ -15,7 +15,7 @@ Check out the live version of this project [here](https://react-qrcode-generator
 - Built with **React Hooks**
 
 ## 📸 Preview
-![QR Code Generator Screenshot](./assets/preview.png)
+![QR Code Generator Screenshot](./src/assets/preview.png)
 
 ## 🛠️ Technologies Used
 - **React.js**  
